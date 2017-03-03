@@ -11,7 +11,7 @@
 <!-- .element: class="fragment" -->
 <img width="30%" src="https://raw.githubusercontent.com/zendframework/zf2/234b554f2ca202095aea32e4fa557553f8849664/resources/ZendFramework-logo.png"/>
 <!-- .element: class="fragment" -->
-<img width="30%" src="http://www.findurlaptop.com/tech/wp-content/uploads/2015/10/phalcon-php-in-shared-hosting.gif"/>
+<img width="30%" src="http://projectsquare.io/wp-content/uploads/2016/06/phalcon.png"/>
 <!-- .element: class="fragment" -->
 
 
